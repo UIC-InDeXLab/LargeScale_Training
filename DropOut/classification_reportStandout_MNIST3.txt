@@ -1,0 +1,2 @@
+50- dev set: Average loss: 2.3038, Accuracy: 602/5000 (12.04%)
+50- dev set: Average loss: 2.3038, Accuracy: 602/5000 (12.04%)

@@ -1,0 +1,135 @@
+50- dev set: Average loss: 1.6096, Accuracy: 369/2000 (18.45%)
+1- dev set: Average loss: 4.0467, Accuracy: 1136/2000 (56.80%)
+2- dev set: Average loss: 0.4113, Accuracy: 1736/2000 (86.80%)
+3- dev set: Average loss: 0.7288, Accuracy: 1752/2000 (87.60%)
+4- dev set: Average loss: 3.1770, Accuracy: 1580/2000 (79.00%)
+5- dev set: Average loss: 0.3999, Accuracy: 1808/2000 (90.40%)
+6- dev set: Average loss: 1.0562, Accuracy: 1759/2000 (87.95%)
+7- dev set: Average loss: 2.3946, Accuracy: 1720/2000 (86.00%)
+8- dev set: Average loss: 0.9749, Accuracy: 1856/2000 (92.80%)
+9- dev set: Average loss: 0.7495, Accuracy: 1832/2000 (91.60%)
+10- dev set: Average loss: 1.0282, Accuracy: 1853/2000 (92.65%)
+11- dev set: Average loss: 0.7056, Accuracy: 1887/2000 (94.35%)
+12- dev set: Average loss: 0.9846, Accuracy: 1827/2000 (91.35%)
+13- dev set: Average loss: 0.4955, Accuracy: 1891/2000 (94.55%)
+14- dev set: Average loss: 2.1684, Accuracy: 1822/2000 (91.10%)
+15- dev set: Average loss: 0.8765, Accuracy: 1811/2000 (90.55%)
+16- dev set: Average loss: 0.7165, Accuracy: 1858/2000 (92.90%)
+17- dev set: Average loss: 0.8981, Accuracy: 1860/2000 (93.00%)
+18- dev set: Average loss: 0.6471, Accuracy: 1897/2000 (94.85%)
+19- dev set: Average loss: 0.2389, Accuracy: 1924/2000 (96.20%)
+20- dev set: Average loss: 0.7505, Accuracy: 1898/2000 (94.90%)
+21- dev set: Average loss: 0.6257, Accuracy: 1885/2000 (94.25%)
+22- dev set: Average loss: 0.7525, Accuracy: 1844/2000 (92.20%)
+23- dev set: Average loss: 1.4709, Accuracy: 1842/2000 (92.10%)
+24- dev set: Average loss: 1.2759, Accuracy: 1886/2000 (94.30%)
+25- dev set: Average loss: 0.3674, Accuracy: 1941/2000 (97.05%)
+26- dev set: Average loss: 1.5350, Accuracy: 1836/2000 (91.80%)
+27- dev set: Average loss: 1.7597, Accuracy: 1878/2000 (93.90%)
+28- dev set: Average loss: 0.8718, Accuracy: 1904/2000 (95.20%)
+29- dev set: Average loss: 0.8923, Accuracy: 1889/2000 (94.45%)
+30- dev set: Average loss: 0.4645, Accuracy: 1919/2000 (95.95%)
+31- dev set: Average loss: 1.6206, Accuracy: 1901/2000 (95.05%)
+32- dev set: Average loss: 0.4783, Accuracy: 1938/2000 (96.90%)
+33- dev set: Average loss: 0.7135, Accuracy: 1923/2000 (96.15%)
+34- dev set: Average loss: 0.9419, Accuracy: 1891/2000 (94.55%)
+35- dev set: Average loss: 0.4819, Accuracy: 1937/2000 (96.85%)
+36- dev set: Average loss: 0.7323, Accuracy: 1913/2000 (95.65%)
+37- dev set: Average loss: 1.8245, Accuracy: 1869/2000 (93.45%)
+38- dev set: Average loss: 0.6435, Accuracy: 1933/2000 (96.65%)
+39- dev set: Average loss: 1.4310, Accuracy: 1881/2000 (94.05%)
+40- dev set: Average loss: 0.5972, Accuracy: 1909/2000 (95.45%)
+41- dev set: Average loss: 0.6170, Accuracy: 1935/2000 (96.75%)
+42- dev set: Average loss: 1.1099, Accuracy: 1918/2000 (95.90%)
+43- dev set: Average loss: 2.1595, Accuracy: 1917/2000 (95.85%)
+44- dev set: Average loss: 0.5009, Accuracy: 1927/2000 (96.35%)
+45- dev set: Average loss: 0.6105, Accuracy: 1932/2000 (96.60%)
+46- dev set: Average loss: 0.5365, Accuracy: 1937/2000 (96.85%)
+47- dev set: Average loss: 0.8462, Accuracy: 1910/2000 (95.50%)
+48- dev set: Average loss: 2.5673, Accuracy: 1881/2000 (94.05%)
+49- dev set: Average loss: 0.3951, Accuracy: 1917/2000 (95.85%)
+50- dev set: Average loss: 1.2327, Accuracy: 1917/2000 (95.85%)
+              precision    recall  f1-score   support
+
+           0       1.00      0.88      0.94      9720
+           1       0.92      1.00      0.96      9720
+           2       0.98      0.99      0.99      9720
+           3       1.00      0.97      0.98      9720
+           4       0.95      1.00      0.97      9720
+
+    accuracy                           0.97     48600
+   macro avg       0.97      0.97      0.97     48600
+weighted avg       0.97      0.97      0.97     48600
+
+--------------------------------------------------
+50- test set: Average loss: 0.7903, Accuracy: 46950/48600 (96.60%)
+50- dev set: Average loss: 2.3011, Accuracy: 800/5000 (16.00%)
+1- dev set: Average loss: 0.4121, Accuracy: 4250/5000 (85.00%)
+2- dev set: Average loss: 0.3943, Accuracy: 4297/5000 (85.94%)
+3- dev set: Average loss: 0.4045, Accuracy: 4323/5000 (86.46%)
+4- dev set: Average loss: 0.3782, Accuracy: 4358/5000 (87.16%)
+5- dev set: Average loss: 0.3765, Accuracy: 4357/5000 (87.14%)
+6- dev set: Average loss: 0.4335, Accuracy: 4312/5000 (86.24%)
+7- dev set: Average loss: 0.3940, Accuracy: 4376/5000 (87.52%)
+8- dev set: Average loss: 0.4032, Accuracy: 4357/5000 (87.14%)
+9- dev set: Average loss: 0.3978, Accuracy: 4364/5000 (87.28%)
+10- dev set: Average loss: 0.3532, Accuracy: 4413/5000 (88.26%)
+11- dev set: Average loss: 0.3793, Accuracy: 4390/5000 (87.80%)
+12- dev set: Average loss: 0.4223, Accuracy: 4364/5000 (87.28%)
+13- dev set: Average loss: 0.3871, Accuracy: 4408/5000 (88.16%)
+14- dev set: Average loss: 0.4189, Accuracy: 4424/5000 (88.48%)
+15- dev set: Average loss: 0.4152, Accuracy: 4387/5000 (87.74%)
+16- dev set: Average loss: 0.4206, Accuracy: 4422/5000 (88.44%)
+17- dev set: Average loss: 0.4121, Accuracy: 4421/5000 (88.42%)
+18- dev set: Average loss: 0.4162, Accuracy: 4414/5000 (88.28%)
+19- dev set: Average loss: 0.4317, Accuracy: 4408/5000 (88.16%)
+20- dev set: Average loss: 0.4487, Accuracy: 4411/5000 (88.22%)
+21- dev set: Average loss: 0.4112, Accuracy: 4452/5000 (89.04%)
+22- dev set: Average loss: 0.4783, Accuracy: 4412/5000 (88.24%)
+23- dev set: Average loss: 0.4527, Accuracy: 4437/5000 (88.74%)
+24- dev set: Average loss: 0.5566, Accuracy: 4348/5000 (86.96%)
+25- dev set: Average loss: 0.4555, Accuracy: 4426/5000 (88.52%)
+26- dev set: Average loss: 0.5268, Accuracy: 4416/5000 (88.32%)
+27- dev set: Average loss: 0.4907, Accuracy: 4398/5000 (87.96%)
+28- dev set: Average loss: 0.5193, Accuracy: 4413/5000 (88.26%)
+29- dev set: Average loss: 0.5799, Accuracy: 4361/5000 (87.22%)
+30- dev set: Average loss: 0.5383, Accuracy: 4397/5000 (87.94%)
+31- dev set: Average loss: 0.4845, Accuracy: 4444/5000 (88.88%)
+32- dev set: Average loss: 0.5286, Accuracy: 4431/5000 (88.62%)
+33- dev set: Average loss: 0.5326, Accuracy: 4404/5000 (88.08%)
+34- dev set: Average loss: 0.5688, Accuracy: 4412/5000 (88.24%)
+35- dev set: Average loss: 0.5435, Accuracy: 4415/5000 (88.30%)
+36- dev set: Average loss: 0.5103, Accuracy: 4426/5000 (88.52%)
+37- dev set: Average loss: 0.5714, Accuracy: 4399/5000 (87.98%)
+38- dev set: Average loss: 0.5468, Accuracy: 4428/5000 (88.56%)
+39- dev set: Average loss: 0.5341, Accuracy: 4427/5000 (88.54%)
+40- dev set: Average loss: 0.5965, Accuracy: 4385/5000 (87.70%)
+41- dev set: Average loss: 0.5928, Accuracy: 4415/5000 (88.30%)
+42- dev set: Average loss: 0.5898, Accuracy: 4424/5000 (88.48%)
+43- dev set: Average loss: 0.6660, Accuracy: 4371/5000 (87.42%)
+44- dev set: Average loss: 0.6298, Accuracy: 4422/5000 (88.44%)
+45- dev set: Average loss: 0.6413, Accuracy: 4417/5000 (88.34%)
+46- dev set: Average loss: 0.6797, Accuracy: 4424/5000 (88.48%)
+47- dev set: Average loss: 0.6531, Accuracy: 4412/5000 (88.24%)
+48- dev set: Average loss: 0.6533, Accuracy: 4417/5000 (88.34%)
+49- dev set: Average loss: 0.6362, Accuracy: 4429/5000 (88.58%)
+50- dev set: Average loss: 0.6934, Accuracy: 4377/5000 (87.54%)
+              precision    recall  f1-score   support
+
+           0       0.90      0.64      0.75      1000
+           1       0.99      0.97      0.98      1000
+           2       0.79      0.79      0.79      1000
+           3       0.89      0.85      0.87      1000
+           4       0.85      0.74      0.79      1000
+           5       0.97      0.96      0.97      1000
+           6       0.55      0.82      0.66      1000
+           7       0.95      0.92      0.93      1000
+           8       0.97      0.96      0.97      1000
+           9       0.93      0.97      0.95      1000
+
+    accuracy                           0.86     10000
+   macro avg       0.88      0.86      0.86     10000
+weighted avg       0.88      0.86      0.86     10000
+
+--------------------------------------------------
+50- test set: Average loss: 0.8038, Accuracy: 8612/10000 (86.12%)
