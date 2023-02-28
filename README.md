@@ -16,3 +16,6 @@ Dataset : Input.   Output.
 NORB    : 9216       5
 MNIST   : 784        10 
 FMNIST  : 784        10
+
+Check out MC Approx here:
+https://github.com/acsl-technion/approx
