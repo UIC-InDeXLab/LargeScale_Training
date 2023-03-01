@@ -20,3 +20,5 @@ FMNIST  : 784        10
 
 Check out MC Approx here:
 https://github.com/acsl-technion/approx
+
+Find the supplemental material in Sampling_based_Techniques_for_Training_DNNs__VLDB__Appendix_.pdf
