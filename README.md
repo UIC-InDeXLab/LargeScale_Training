@@ -1,4 +1,4 @@
-# LSH-LargeScaleDL
+
 
 Approx_LSH: includes ALSH setting of the neural network. Run main.py to see the results. The configurtions can be changed on main.py.
 
