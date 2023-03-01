@@ -10,7 +10,7 @@
 
 Activation function: ReLU; weight initialization: Kaiming initialization
 
-Loss Function = Negative Log-Likelihood
+Loss Function: Negative Log-Likelihood
 
 
 Datasets: MNIST, NORB, Fashion-MNIST
@@ -21,9 +21,11 @@ Input and output dimension must change according to the dataset.
 | ------- | ----- | -------- |
 | NORB    | 9216  |    5     |
 | MNIST   | 784   |    10    |
-| FMNIST  | 784   |    10    |
+| Fashion-MNIST  | 784   |    10    |
+
 
 Check out MC-approx here:
 https://github.com/acsl-technion/approx
+
 
 Find the supplementary material in `Sampling_based_Techniques_for_Training_DNNs__VLDB__Supplementary_Material.pdf`.
