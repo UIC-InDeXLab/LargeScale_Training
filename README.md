@@ -1,5 +1,6 @@
 #Sampling-Based Techniques for Training Deep Neural Networks with Limited Computational Resources
 
+
 Approx_LSH: includes ALSH setting of the neural network. Run main.py to see the results. The configurtions can be changed on main.py.
 
 Regular_NN: Includes standard setting of the neural network. Run main.py.
