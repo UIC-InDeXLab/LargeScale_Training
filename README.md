@@ -26,4 +26,4 @@ Input and output dimension must change according to the dataset.
 Check out MC-approx here:
 https://github.com/acsl-technion/approx
 
-Find the supplementary material in `Sampling_based_Techniques_for_Training_DNNs__VLDB__Appendix_.pdf`.
+Find the supplementary material in `Sampling_based_Techniques_for_Training_DNNs__VLDB__Supplementary_Material.pdf`.
