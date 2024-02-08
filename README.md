@@ -28,4 +28,4 @@ Check out MC-approx here:
 https://github.com/acsl-technion/approx
 
 
-Find the supplementary material in `Sampling_based_Techniques_for_Training_DNNs__VLDB__Supplementary_Material.pdf`.
+Find the supplementary material in `Appendix.pdf`.
